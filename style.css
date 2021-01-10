@@ -1,0 +1,59 @@
+#title {
+    color: black;
+    font-size: 32px;
+    text-align: center;
+}
+
+body {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Goldman', cursive;
+}
+
+.imgs {
+    width: 400px;
+    padding: inherit;
+}
+#abc
+{
+   left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    background: linear-gradient(aqua 0%, aquamarine 50%, lightseagreen 100%);
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+}
+
+.links
+{
+    font-size: 25px;
+    color:black;
+    padding-right:9px;
+    padding-left:9px;
+    padding-top:14px;
+    float: left;
+    padding-bottom:14px;
+}
+.links:hover
+{
+    background-color:orange;
+}
+#ul1
+{
+    color: azure;
+    position:fixed;
+    list-style: none;
+    cursor:pointer;
+    font-family: 'Goldman', cursive;
+}
+a {
+    text-decoration: none;
+} 
+#contact
+{
+    color:teal;
+    background-color: lime;
+}
